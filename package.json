@@ -1,0 +1,11 @@
+{
+  "name": "com.atmo.basiclib",
+  "version": "0.1.0",
+  "type": "library",
+  "displayName": "BasicLib",
+  "description": "Basic classed and functions",
+  "unity": "2020.1",
+  "author": {
+    "name": "Dennis Hawran"
+  }
+}
